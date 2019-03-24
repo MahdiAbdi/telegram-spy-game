@@ -13,7 +13,7 @@ _startNewGame = (ctx) => {
   currentGame.playersCount = ++ctx.match[1];
   currentGame.players = [];
   console.log(currentGame.playersCount + " players");
-  currentGame.spyNum = Math.floor(Math.random() * currentGame.playersCount) + 1;
+  currentGame.spyNum = Math.floor(Math.random() * currentGame.playersCount) + 1;~
   console.log(currentGame.spyNum + " is spy");
   const locations = _getLocationList();
   const randomLocationNum = Math.floor(Math.random() * locations.length);

@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/verget/telegram-spy-game.git"
+    "url": "git+ssh://git@github.com/MahdiAbdi/telegram-spy-game.git"
   },
   "keywords": [
     "telegram",
@@ -18,12 +18,12 @@
     "game",
     "board-game"
   ],
-  "author": "verget",
+  "author": "MahdiAbdi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/verget/telegram-spy-game/issues"
+    "url": "https://github.com/MahdiAbdi/telegram-spy-game/issues"
   },
-  "homepage": "https://github.com/verget/telegram-spy-game#readme",
+  "homepage": "https://github.com/MahdiAbdi/telegram-spy-game#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
